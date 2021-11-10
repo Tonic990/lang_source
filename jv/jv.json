@@ -1,5 +1,5 @@
 {
-  "play": "**Playing {} in this chat.**",
+  "play": "**Muter Lagu {} Neng Chat**",
   "stream": "**Streaming {} in this chat**",
   "process": "`processing.. please wait.`",
   "track_queued": "Track queued",
